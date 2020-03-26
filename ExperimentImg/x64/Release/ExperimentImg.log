@@ -1,0 +1,43 @@
+﻿  stdafx.cpp
+  ExperimentImg.cpp
+  ExperimentImgDlg.cpp
+e:\vs-worksplace\experimentimg\experimentimg\experimentimgdlg.cpp(65): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\experimentimgdlg.cpp(232): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\experimentimgdlg.cpp(285): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\experimentimgdlg.cpp(790): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\experimentimgdlg.cpp(810): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ImageProcess.cpp
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(266): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(267): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(309): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(310): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(378): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(399): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(402): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(405): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(574): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(682): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(683): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\vs-worksplace\experimentimg\experimentimg\imageprocess.cpp(684): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+ExperimentImgDlg.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl cv::Mat::copyTo(class cv::_OutputArray const &)const " (?copyTo@Mat@cv@@QEBAXAEBV_OutputArray@2@@Z)
+E:\vs-worksplace\ExperimentImg\x64\Release\ExperimentImg.exe : fatal error LNK1120: 1 个无法解析的外部命令

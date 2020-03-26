@@ -1,0 +1,4 @@
+﻿  ExperimentImgDlg.cpp
+d:\workspace\vs\experimentimg\experimentimg\experimentimgdlg.cpp(177): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  ExperimentImg.vcxproj -> D:\Workspace\VS\ExperimentImg\Debug\ExperimentImg.exe
+  ExperimentImg.vcxproj -> D:\Workspace\VS\ExperimentImg\Debug\ExperimentImg.pdb (Partial PDB)
